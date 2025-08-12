@@ -1,6 +1,6 @@
 # Trabalho de Modelo de Mistura de Regressão
 
-Em 2024, com a colaboração dos membros do grupo: Sofia Marinho, Larissa Castilho e Juan Sotomayor, foi realizado um trabalho sobre a técnica para Modelos de Mistura de Regressão, na disciplina ME630, ministrada pela Profª. Drª Tatiana Benaglia (IMECC/ UNICAMP).
+Em 2024, com a colaboração dos membros do grupo: Sofia Marinho, Larissa Castilho (@laricastilho) e Juan Sotomayor, foi realizado um trabalho sobre a técnica para Modelos de Mistura de Regressão, na disciplina ME630, ministrada pela Profª. Drª Tatiana Benaglia (IMECC/ UNICAMP).
 
 Exploramos esse modelo através de um conjunto de dados sintético para ilustrar um problema simplificado e comum, para destacar seu uso e importância.
 
